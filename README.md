@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/danonstinson/homepage.git
+https://danonstinson.github.io/homepage/
 
 ![Daniel](https://github.com/danonstinson/homepage/blob/main/images/img1.jpg?raw=true)
 
