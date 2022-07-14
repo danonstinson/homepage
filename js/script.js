@@ -1,13 +1,14 @@
 console.log("hello world");
 
-let button = document.querySelector(".button");
-let poemVerseFine = document.querySelector(".body__view--fine");
-let inlineText = document.querySelector(".button--modificator")
+let button = document.querySelector(".js-button");
+let poemVerseFine = document.querySelector(".aside__view");
+let inlineText = document.querySelector(".js-button--modificator")
 
 button.addEventListener("click", () => {
-    poemVerseFine.classList.toggle("body__view--red");
-    if (poemVerseFine.classList.contains("body__view--red")) {
+    poemVerseFine.classList.toggle("aside__view--modificator");
+    if (poemVerseFine.classList.contains("aside__view--modificator")) {
         inlineText.innerText = "jasny"
     } else {
         inlineText.innerText = "czerwony"
-}});
+    }
+});

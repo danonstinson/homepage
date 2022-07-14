@@ -1,0 +1,36 @@
+.section__picture {
+    max-width: 300px;
+    box-shadow: 4px 2px 8px 4px #020202;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section__list {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.section__list--unordered {
+    list-style-type: square;
+}
+
+.section__list--ordered {
+    list-style-type: upper-roman;
+}
+
+.section__item {
+    margin: 5px;
+}
+
+.section__header {
+    color: white;
+    background-color: #020202;
+    padding: 20px;
+    text-shadow: 3px 3px #4d4d4d;
+}
+
+.section__header--fine {
+    background-color: #4d4d4d;
+    text-shadow: 3px 3px black;
+}

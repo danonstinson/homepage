@@ -1,0 +1,28 @@
+.aside__author {
+    font-weight: bold;
+}
+
+.aside__button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+    background-color: #FFFFFF;
+    box-shadow: 4px 2px 8px 4px #020202;
+}
+
+.aside__view {
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px hsl(0, 0%, 85%);
+}
+
+.aside__view--modificator {
+    font-style: italic;
+    text-align: center;
+    background-color: red;
+    color: white;
+    text-shadow: 2px 2px black;
+}
