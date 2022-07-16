@@ -6,23 +6,6 @@
     margin-right: auto;
 }
 
-.section__list {
-    padding-left: 0px;
-    list-style-position: inside;
-}
-
-.section__list--unordered {
-    list-style-type: square;
-}
-
-.section__list--ordered {
-    list-style-type: upper-roman;
-}
-
-.section__item {
-    margin: 5px;
-}
-
 .section__header {
     color: white;
     background-color: #020202;

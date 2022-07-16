@@ -1,0 +1,16 @@
+.list {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list--unordered {
+    list-style-type: square;
+}
+
+.list--ordered {
+    list-style-type: upper-roman;
+}
+
+.list__item {
+    margin: 5px;
+}

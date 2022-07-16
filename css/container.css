@@ -3,3 +3,10 @@
     margin: 20px auto 50px;
     padding: 10px;
 }
+
+.header {
+    color: white;
+    background-color: #020202;
+    padding: 20px;
+    text-shadow: 3px 3px #4d4d4d;
+}
