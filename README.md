@@ -4,7 +4,7 @@
 
 https://danonstinson.github.io/homepage/
 
-![Daniel](https://github.com/danonstinson/homepage/blob/main/images/img1.jpg?raw=true)
+![Daniel](images/how-it-looks.gif)
 
 ## Description
 
@@ -12,3 +12,10 @@ Hello World! Welcome in my first website.
 Let's get to know each other.
 Enjoy!
 Than you can hire me ;)
+
+## Technologies:
+- JAVASCRIPT
+- HTML
+- CSS
+- BEM
+- Markdown
