@@ -11,7 +11,7 @@ https://danonstinson.github.io/homepage/
 Hello World! Welcome in my first website.
 Let's get to know each other.
 Enjoy!
-Than you can hire me ;)
+Then you can hire me ;)
 
 ## Technologies:
 - JAVASCRIPT
