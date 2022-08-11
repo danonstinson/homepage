@@ -1,4 +1,4 @@
-.table {
+.tableContainer {
     overflow-x: auto;
     border-collapse: collapse;
     text-align: center;
@@ -13,7 +13,7 @@
     border: 1px solid hsl(0, 0%, 60%);
 }
 
-.table__header {
+.table__cell--header {
     background-color: #4d4d4d;
     color: white;
 }
