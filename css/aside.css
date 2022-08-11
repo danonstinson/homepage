@@ -16,7 +16,7 @@
 .aside__view {
     font-style: italic;
     text-align: center;
-    text-shadow: 2px 2px hsl(0, 0%, 85%);
+    text-shadow: 2px 1px hsl(0, 0%, 85%);
 }
 
 .aside__view--modificator {
@@ -24,5 +24,5 @@
     text-align: center;
     background-color: red;
     color: white;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 1px black;
 }
