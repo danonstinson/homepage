@@ -17,7 +17,12 @@
 
     welcome();
 
-    const button = document.querySelector(".js-button");
+    const init = () => {
 
-    button.addEventListener("click", toggleBackground);
+        const button = document.querySelector(".js-button");
+
+        button.addEventListener("click", toggleBackground);
+    }
+
+    init();
 }
